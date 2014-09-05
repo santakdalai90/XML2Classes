@@ -1,0 +1,17 @@
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\bin\Debug\XML2Classes.exe
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\bin\Debug\XML2Classes.pdb
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.Properties.Resources.resources
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.exe
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.pdb
+c:\users\sdalai\documents\visual studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.XML2Classes.resources
+C:\Users\sdalai\Documents\Visual Studio 2010\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.exe
+C:\Users\sdalai\Documents\Visual Studio 2010\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.pdb
+C:\Users\sdalai\Documents\Visual Studio 2010\XML2Classes\XML2Classes\bin\Debug\XML2Classes.exe
+C:\Users\sdalai\Documents\Visual Studio 2010\XML2Classes\XML2Classes\bin\Debug\XML2Classes.pdb
+C:\Users\sdalai\Documents\Visual Studio 2010\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.Properties.Resources.resources
+C:\Users\sdalai\Documents\Visual Studio 2010\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.csproj.GenerateResource.Cache
+C:\Users\sdalai\Documents\Visual Studio 2010\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.csprojResolveAssemblyReference.cache
+C:\Users\sdalai\Documents\Visual Studio 2010\XML2Classes\XML2Classes\obj\x86\Debug\XML2Classes.XMLClass.resources

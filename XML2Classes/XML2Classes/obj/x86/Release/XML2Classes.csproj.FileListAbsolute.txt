@@ -1,0 +1,7 @@
+C:\Users\sdalai\Documents\Visual Studio 2010\Projects\XML2Classes\XML2Classes\bin\Release\XML2Classes.exe
+C:\Users\sdalai\Documents\Visual Studio 2010\Projects\XML2Classes\XML2Classes\bin\Release\XML2Classes.pdb
+C:\Users\sdalai\Documents\Visual Studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Release\XML2Classes.XML2Classes.resources
+C:\Users\sdalai\Documents\Visual Studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Release\XML2Classes.Properties.Resources.resources
+C:\Users\sdalai\Documents\Visual Studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Release\XML2Classes.exe
+C:\Users\sdalai\Documents\Visual Studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Release\XML2Classes.pdb
+C:\Users\sdalai\Documents\Visual Studio 2010\Projects\XML2Classes\XML2Classes\obj\x86\Release\XML2Classes.csproj.GenerateResource.Cache
